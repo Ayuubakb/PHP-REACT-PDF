@@ -1,16 +1,16 @@
 
 # ELECTROSHARE :bulb:
-Une Application WEB pour manager le processus d'envois, verification et telechargement de factures 
+Une Application WEB pour manager le processus d'envois, verification et telechargement de factures \ 
 :star: Un Client :person_in_tuxedo: peut : 
 - Declarer sa consommation par saisir la valeur indique sur le compteur accompagné d'une photo de ce dernier.
 - Faire des reclamations.
 - Telechargée les facteurs. :printer: :receipt:
-- Voir ses consommations précedentes.
+- Voir ses consommations précedentes. \
 :star: Un Admin :man_judge: peut :
 - Ajouter /Modifier les clients :person_in_tuxedo: .
 - Voir les factures non payée.
 - Voir les factures ayant des anomalies et peut choisir de les acceptées ou non.
-- Entrer Les consommations annuelles notées par les agents :policeman: aprés leurs tours (Les consommations annuelles sont notées dans un fichier .txt comme indiquer au dessus)
+- Entrer Les consommations annuelles notées par les agents :policeman: aprés leurs tours (Les consommations annuelles sont notées dans un fichier .txt comme indiquer au dessus) \
 :star: Fonctionnalités Automatique du Plateforme :
 - Si une consommation entrée par le client supérieur/inférieur de plus de 100kwh de la moyenne de ses consommations , c'est une anomalie :warning:.
 - Si une consommation annuelle :calendar: fournit par un agent :policeman: a une marge de +50kwh avec la somme des consommayions entrer par le client :person_in_tuxedo: durant l'année en question, une notification :bell: est envoyée au client
