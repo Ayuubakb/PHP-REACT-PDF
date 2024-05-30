@@ -1,0 +1,10 @@
+id : 18 / consommation : 2500 / annee : 2023 / date : 24-12-2023
+id : 1 / consommation : 2800 / annee : 2023 / date : 10-12-2023
+id : 2 / consommation : 1500 / annee : 2023 / date : 18-12-2023 
+id : 3 / consommation : 3000 / annee : 2023 / date : 20-12-2023
+id : 4 / consommation : 2900 / annee : 2023 / date : 19-12-2023
+id : 5 / consommation : 2500 / annee : 2023 / date : 24-12-2023
+id : 6 / consommation : 2800 / annee : 2023 / date : 10-12-2023
+id : 7 / consommation : 1500 / annee : 2023 / date : 18-12-2023 
+id : 16 / consommation : 3000 / annee : 2023 / date : 20-12-2023
+id : 17 / consommation : 2900 / annee : 2023 / date : 19-12-2023
