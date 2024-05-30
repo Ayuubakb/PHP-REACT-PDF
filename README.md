@@ -1,6 +1,6 @@
 
 # ELECTROSHARE :bulb:
-Une Application WEB pour manager le processus d'envois, verification et telechargement de factures \ 
+Une Application WEB pour manager le processus d'envois, verification et telechargement de factures. \
 :star: Un Client :person_in_tuxedo: peut : 
 - Declarer sa consommation par saisir la valeur indique sur le compteur accompagné d'une photo de ce dernier.
 - Faire des reclamations.
